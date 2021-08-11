@@ -1,0 +1,11 @@
+html,
+body {
+    margin: 0;
+    height: 0;
+    width: 100px;
+    background-color: hotpink;
+}
+
+h2 {
+    font-size: 100px;
+}
